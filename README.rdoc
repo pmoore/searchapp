@@ -37,3 +37,5 @@ to a category, has many authors and comments.
 * A Rails initializer is added to customize the Elasticsearch client configuration
 * Seed script and example data from New York Times is added
 
+
+http://www.codinginthecrease.com/news_article/show/409843?referrer_id=948927
